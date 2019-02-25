@@ -1,4 +1,4 @@
-#CFR
+**_`****`_**# PaymentHub
 
 Configuration
 ---------------
@@ -16,6 +16,7 @@ sftp.ssh.passphrase=
 #File
 file.name.dateformat=yyyyMMdd
 file.name.type=TXT
+file.name.prefix=TRN_PH_PAY_,TRN_PH_WHT_
 
 #Log4j
 log.config.file=log4j.properties
